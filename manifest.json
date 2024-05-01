@@ -1,0 +1,6 @@
+{
+  "name": "Nike App",
+  "short_name": "Nike",
+  "start_url": "/",
+  "display": "standalone"
+}
